@@ -114,7 +114,7 @@ pip install giza-datasets
 
 The following diagram illustrates the workflow of the pipeline -
 
-![Pipeline Workflow](https://github.com/Hrishikesh332/Liquidity-Analytics-and-Prediction/blob/main/src/UML_Approach.png)
+![Pipeline Workflow](https://github.com/Hrishikesh332/Liquidity-Analytics-and-Prediction/blob/main/src/UML_Prediction.png)
 
 The pipeline consists of the following steps:
 
